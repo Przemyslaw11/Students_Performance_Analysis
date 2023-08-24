@@ -1,17 +1,15 @@
-# Students_Performance_Analysis
-Analysis made to understand which factors may affect the student's performance.
+## About Dataset
+# Context
+Marks secured by the students
 
-# Conclusion
-Regarding student performance, the following factors have been observed:
+# Content
+This data set consists of the marks secured by the students in various subjects.
 
-⚪ Having lunch is the most important factor for increasing scores.
+# Acknowledgements
+http://roycekimmons.com/tools/generated_data/exams
 
-⚫ Completing a preparation course also improves performance.
+# Inspiration
+To understand the influence of the parents background, test preparation etc on students performance
 
-⚪ Gender has no significant correlation with the scores.
 
-⚫ In summary, to achieve better scores, students should avoid feeling hungry before a test and complete a preparation course.
-
-# Kaggle version
-
-https://www.kaggle.com/code/przemyslawbar/students-performance-analysis-matplotlib
+The preceding text was generated and duplicated from a Kaggle dataset: https://www.kaggle.com/code/przemyslawbar/students-performance-analysis-matplotlib
